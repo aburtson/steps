@@ -1,8 +1,8 @@
-#Steps
+# Steps
 
 This plugin includes a module with a series of steps. As you scroll, a line extends downwards through each step. Could be used for a timeline, or some other linear sequence.
 
-##Setup
+## Setup
 
 1. _Dependencies:_ verify that the jQuery is included in your project.
 2. Include **steps.js** in your JS directory.
